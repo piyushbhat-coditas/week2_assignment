@@ -31,7 +31,7 @@ public class Q1_Assignment2 {
             System.out.println();
         }
         finally{
-            System.out.println("Program Execution Completed");
+            System.out.println("Program Execution Completed!");
         }
 
     }
