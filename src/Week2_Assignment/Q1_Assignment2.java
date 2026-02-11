@@ -1,4 +1,4 @@
-/*
+package Week2_Assignment;/*
 . Write a Java program that:
 • Takes two integers from the user.
 • Performs division of the first number by the second.

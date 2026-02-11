@@ -1,4 +1,4 @@
-/*
+package Week2_Assignment;/*
 Create a custom runtime exception called InvalidAgeException.
 • Throw this exception if age is less than 18 while creating a User object.
 • Catch the exception and print a meaningful error message.

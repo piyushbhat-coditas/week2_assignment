@@ -1,10 +1,11 @@
-package Q9_Assignment2;
+package Week2_Assignment.Q9_Assignment2;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
 
-public class Employee{
+public class Employee
+{
 
     public static void main(String[] args) {
 

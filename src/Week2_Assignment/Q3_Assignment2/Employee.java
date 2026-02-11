@@ -1,4 +1,4 @@
-package Q3_Assignment2;
+package Week2_Assignment.Q3_Assignment2;
 
 /*
 Create an abstract class Employee with: -

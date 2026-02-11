@@ -1,4 +1,4 @@
-package Q8_Assignment2;
+package Week2_Assignment.Q8_Assignment2;
 
 import java.io.*;
 

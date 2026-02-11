@@ -1,4 +1,4 @@
-package Q7_Assignment2;
+package Week2_Assignment.Q7_Assignment2;
 
 // Enum to represent order status
 enum OrderStatus {
